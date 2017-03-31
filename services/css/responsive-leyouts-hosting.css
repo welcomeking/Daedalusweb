@@ -1,0 +1,537 @@
+/* Responsive CSS Styles Table of Contents */
+
+@media only screen and (min-width: 1000px) and (max-width: 1169px){
+.container {
+	width: 1000px;
+	margin: auto;
+}
+
+.top_nav .left {
+	width: 50%;
+}
+.top_nav .right {
+	width: 50%;
+}
+
+.domain_search .serch_area .enter_email_input {
+	width: 52%;
+}
+
+.feature_section1 .one_fourth_less{
+	padding:40px 18px 50px 18px;
+}
+.feature_section3 .one_fourth_less{
+	padding:40px 25px 50px 25px;
+}
+
+
+
+.less5 {
+	width: 95%;
+}
+
+
+
+
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 999px){
+.container {
+	width: 747px;
+	margin: auto;
+}
+
+.logo {
+	width: 50%;
+}
+.menu_main {
+	width: 97%;
+	position: absolute;
+}
+
+.top_nav .left {
+	width: 50%;
+}
+.top_nav .right {
+	width: 50%;
+}
+
+.slidermar31 {
+	margin-top: 77px;
+}
+
+.domain_search .serch_area h5 {
+	letter-spacing:0px;
+	font-size: 14px;
+	margin: 14px 10px 0px 0px;
+}
+.domain_search .serch_area .enter_email_input {
+	width: 54%;
+}
+.domain_search .serch_area .input_submit {
+	font-size: 14px;
+	padding: 13px 20px 14px 20px;
+}
+
+
+.feature_section1 .one_fourth_less{
+	padding:40px 10px 50px 10px;
+}
+.feature_section3 .one_fourth_less{
+	padding:40px 25px 50px 25px;
+}
+
+.feature_section6 img{
+	width: 100%;
+}
+.feature_section6 .boxleft{
+	padding:80px 25px;
+}
+.feature_section6 .boxright{
+	padding:80px 25px;
+}
+.feature_section6 .button.two {
+	padding: 15px 23px;
+}
+
+.feature_section7 .peoplesays .box {
+	padding: 30px 30px 30px 30px;
+}
+
+
+.less5 {
+	width: 95%;
+}
+
+
+
+}
+
+
+@media only screen and (min-width: 640px) and (max-width: 767px){
+/* columns */
+.one_half, .one_third, .one_fourth, .two_third, .three_fourth, .one_fifth, .onecol_forty, .onecol_sixty, .onecol_thirtyfive,
+.one_half_less, .one_third_less, .one_fourth_less, .two_third_less, .three_fourth_less, .one_fifth_less, .onecol_forty_less, .onecol_sixty_less, .onecol_thirtyfive_less {
+	position: relative;
+	margin-right: 0%;
+	float: left;
+}
+.one_full,
+.one_half,
+.one_third,
+.one_fourth,
+.one_fifth,
+.two_third,
+.three_fourth,
+.onecol_forty,
+.onecol_sixty,
+.onecol_thirtyfive,
+.one_full_less,
+.one_half_less,
+.one_third_less,
+.one_fourth_less,
+.one_fifth_less,
+.two_third_less,
+.three_fourth_less,
+.onecol_forty_less,
+.onecol_sixty_less,
+.onecol_thirtyfive_less {
+	width: 100%;
+	margin-bottom: 50px;
+}
+.last {
+	margin-right: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+
+.container {
+	width: 590px;
+	margin: auto;
+}
+
+.logo {
+	width: 50%;
+}
+.menu_main {
+	width: 93%;
+	position: absolute;
+}
+
+.top_nav .left {
+	width: 60%;
+}
+.top_nav .right {
+	width: 40%;
+}
+
+.slidermar31 {
+	margin-top: 30px;
+}
+
+.domain_search .serch_area .enter_email_input {
+	width: 72%;
+}
+
+.feature_section6 img{
+	width: 100%;
+}
+.feature_section6 .boxleft{
+	width: 100%;
+	padding:80px 25px;
+}
+.feature_section6 .boxright{
+	width: 100%;
+	padding:80px 25px;
+}
+.feature_section6 .button.one {
+	padding: 15px 23px;
+}
+
+.copyright_info .one_half {
+	margin-bottom: 10px;
+}
+ul.footer_social_links {
+	float: left;
+}
+
+
+.less5 {
+	width: 95%;
+}
+
+
+h1 {
+	font-size: 30px;
+	line-height: 30px;
+}
+h2 {
+	font-size: 23px;
+	line-height: 27px;
+}
+h3 {
+	font-size: 18px;
+	line-height: 25px;
+}
+h4 {
+	font-size: 16px;
+	line-height: 25px;
+}
+.feature_section1 h1{
+	font-size: 35px;
+	line-height: 40px;
+}
+.feature_section1 h2{
+	font-size: 16px;
+}
+.feature_section3 h1{
+	font-size: 35px;
+	line-height: 40px;
+}
+.feature_section3 h3{
+	font-size: 21px;
+}
+
+
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 639px){
+
+/* columns */
+.one_half, .one_third, .one_fourth, .two_third, .three_fourth, .one_fifth, .onecol_forty, .onecol_sixty, .onecol_thirtyfive,
+.one_half_less, .one_third_less, .one_fourth_less, .two_third_less, .three_fourth_less, .one_fifth_less, .onecol_forty_less, .onecol_sixty_less, .onecol_thirtyfive_less {
+	position: relative;
+	margin-right: 0%;
+	float: left;
+}
+.one_full,
+.one_half,
+.one_third,
+.one_fourth,
+.one_fifth,
+.two_third,
+.three_fourth,
+.onecol_forty,
+.onecol_sixty,
+.onecol_thirtyfive,
+.one_full_less,
+.one_half_less,
+.one_third_less,
+.one_fourth_less,
+.one_fifth_less,
+.two_third_less,
+.three_fourth_less,
+.onecol_forty_less,
+.onecol_sixty_less,
+.onecol_thirtyfive_less {
+	width: 100%;
+	margin-bottom: 50px;
+}
+.last {
+	margin-right: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+.container {
+	width: 440px;
+	margin: auto;
+}
+
+.logo {
+	width: 50%;
+}
+.menu_main {
+	width: 93%;
+	position: absolute;
+}
+
+.top_nav .left {
+	width: 100%;
+	text-align: left;
+}
+.top_nav .right {
+	width: 100%;
+	text-align: left;
+}
+.top_nav ul.topsocial {
+	float: left;
+}
+
+.slidermar31 {
+	margin-top: 77px;
+}
+
+.domain_search .serch_area .enter_email_input {
+	width: 100%;
+	margin-top: 10px;
+}
+.domain_search .serch_area .input_submit {
+	margin-left: 0px;
+	margin-top: 10px;
+}
+
+.feature_section6 img{
+	width: 100%;
+}
+.feature_section6 .boxleft{
+	width: 100%;
+	padding:80px 25px;
+}
+.feature_section6 .boxright{
+	width: 100%;
+	padding:80px 25px;
+}
+.feature_section6 .button.one {
+	padding: 15px 23px;
+}
+
+.copyright_info .one_half {
+	margin-bottom: 10px;
+}
+ul.footer_social_links {
+	float: left;
+}
+
+
+.less5 {
+	width: 95%;
+}
+
+
+
+h1 {
+	font-size: 27px;
+	line-height: 27px;
+}
+h2 {
+	font-size: 21px;
+	line-height: 25px;
+}
+h3 {
+	font-size: 16px;
+	line-height: 25px;
+}
+h4 {
+	font-size: 16px;
+	line-height: 25px;
+}
+.feature_section1 h1{
+	font-size: 27px;
+	line-height: 30px;
+}
+.feature_section1 h2{
+	font-size: 16px;
+}
+.feature_section3 h1{
+	font-size: 27px;
+	line-height: 30px;
+}
+.feature_section3 h3{
+	font-size: 18px;
+}
+
+}
+
+
+
+
+
+@media only screen and (max-width: 479px){
+
+/* columns */
+.one_half, .one_third, .one_fourth, .two_third, .three_fourth, .one_fifth, .onecol_forty, .onecol_sixty, .onecol_thirtyfive,
+.one_half_less, .one_third_less, .one_fourth_less, .two_third_less, .three_fourth_less, .one_fifth_less, .onecol_forty_less, .onecol_sixty_less, .onecol_thirtyfive_less {
+	position: relative;
+	margin-right: 0%;
+	float: left;
+}
+.one_full,
+.one_half,
+.one_third,
+.one_fourth,
+.one_fifth,
+.two_third,
+.three_fourth,
+.onecol_forty,
+.onecol_sixty,
+.onecol_thirtyfive,
+.one_full_less,
+.one_half_less,
+.one_third_less,
+.one_fourth_less,
+.one_fifth_less,
+.two_third_less,
+.three_fourth_less,
+.onecol_forty_less,
+.onecol_sixty_less,
+.onecol_thirtyfive_less {
+	width: 100%;
+	margin-bottom: 50px;
+}
+.last {
+	margin-right: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+.container {
+	width: 300px;
+	margin: auto;
+}
+
+.logo {
+	width: 100%;
+}
+.menu_main {
+	width: 93%;
+	position: absolute;
+}
+
+.top_nav .left {
+	width: 100%;
+	text-align: left;
+	font-size: 12px;
+}
+.top_nav .left a {
+	margin-right: 10px;
+	font-size: 12px;
+}
+.top_nav .right {
+	width: 100%;
+	text-align: left;
+	font-size: 12px;
+}
+.top_nav ul.topsocial {
+	float: left;
+}
+.top_nav .topsocial li {
+	margin: 0px 8px 0px 0px;
+}
+.tpbut {
+	padding: 12px 10px;
+}
+
+.slidermar31 {
+	margin-top: 77px;
+}
+
+.domain_search .serch_area .enter_email_input {
+	width: 100%;
+	margin-top: 10px;
+}
+.domain_search .serch_area .input_submit {
+	margin-left: 0px;
+	margin-top: 10px;
+}
+
+.feature_section3 {
+	padding: 50px 0px 0px 0px;
+}
+.feature_section3 b{
+	font-size:14px;
+	line-height:23px;
+}
+
+.feature_section6 img{
+	width: 100%;
+}
+.feature_section6 .boxleft{
+	width: 100%;
+	padding:80px 25px;
+}
+.feature_section6 .boxright{
+	width: 100%;
+	padding:80px 25px;
+}
+.feature_section6 .button.two {
+	padding: 15px 10px;
+	font-size: 12px;
+}
+
+.copyright_info .one_half {
+	margin-bottom: 10px;
+}
+ul.footer_social_links {
+	float: left;
+}
+
+
+.less5 {
+	width: 95%;
+}
+
+
+h1 {
+	font-size: 25px;
+	line-height: 27px;
+}
+h2 {
+	font-size: 18px;
+	line-height: 25px;
+}
+h3 {
+	font-size: 16px;
+	line-height: 25px;
+}
+h4 {
+	font-size: 16px;
+	line-height: 25px;
+}
+.feature_section1 h1{
+	font-size: 21px;
+	line-height: 27px;
+}
+.feature_section1 h2{
+	font-size: 16px;
+}
+.feature_section3 h1{
+	font-size: 21px;
+	line-height: 27px;
+}
+.feature_section3 h3{
+	font-size: 18px;
+}
+
+}
