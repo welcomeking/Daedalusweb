@@ -190,7 +190,7 @@ a:hover {
  * --------------------------------------------------------------------------
  */
 .page-header {
-  z-index: 100;
+  
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
