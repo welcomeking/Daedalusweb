@@ -86,7 +86,7 @@
                 <!-- desktop menu -->
           <ul class="qt-desktopmenu">
             <li><a href="index.html" >Home</a></li>
-          <li><a href="#music" class="active" >About</a></li>
+          <li><a href="about.html" class="active" >About</a></li>
           <li><a href="#photos">Services</a></li>
           <li><a href="PORTFOLIO.html" >Portfolio</a></li>
           <li><a href="#booking">Prices</a></li>
@@ -97,7 +97,7 @@
         <!-- mobile menu -->
         <ul id="slide-out" class="side-nav qt-mobilemenu">
           <li><a href="index.html" >Home</a></li>
-          <li><a href="#about" class="active">About</a></li>
+          <li><a href="about.html"  class="active">About</a></li>
           <li><a href="#service">Services</a></li>
           <li><a href="PORTFOLIO.html" >Portfolio</a></li>
           <li><a href="#from-blog" >Prices</a></li>

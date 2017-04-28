@@ -1890,8 +1890,7 @@ hr.invis {
     Team
 ******************************************/
 
-.gray {
-  color: #a5a5a5;
+
 }
 
 .team{
@@ -2199,6 +2198,9 @@ hr.invis {
         -webkit-transform: scale(1);
     }
 }
+
+
+
 
 @-moz-keyframes cssload-pulse-2 {
     0% {
