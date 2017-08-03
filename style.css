@@ -1934,6 +1934,10 @@ hr.invis {
 .team-member figcaption ul li {
   display: inline-block;
   padding: 10px;
+  
+}
+.team-member figcaption ul li a{
+  color: rgba(49, 49, 49, 0.3);
 }
 
 .team-member h4 {
@@ -1946,7 +1950,7 @@ hr.invis {
   color: transparent;
   background-color: transparent;
   position: absolute;
-  z-index: 996;
+  z-index: 0;
   bottom: 0;
   left: 0;
   width: 100%;
@@ -1964,7 +1968,6 @@ hr.invis {
   color: #fff;
   background: #6ad5a7;
   /* Primary color, can be changed via colors.css */
-  
   height: 100%;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
